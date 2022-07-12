@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientific portfolio</title>
+    <link>https://r10f.com/</link>
+    <description>Recent content on Scientific portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://r10f.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shunting assistant SAMIRA</title>
+      <link>https://r10f.com/portfolio/samira/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://r10f.com/portfolio/samira/</guid>
+      <description>The SAMIRA project aims to develop a smart rearview camera with AR for shunting units. The sensor equipment and collected data has the potential to lead to autonomous shunting.
+Project website</description>
+    </item>
+    
+    <item>
+      <title>Innovative Freight Wagon Wagon 4.0</title>
+      <link>https://r10f.com/portfolio/wagon40/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://r10f.com/portfolio/wagon40/</guid>
+      <description>The aim of the Wagon 4.0 project is to open the freight wagon subsystem for automation of critical functions, e.g. brake tests or parking brake. This is achieved by featuring a power supply, a communication system and lightweight control components to the wagon.
+Project website</description>
+    </item>
+    
+    <item>
+      <title>Feasibility of hybrid and battery trains</title>
+      <link>https://r10f.com/portfolio/antriebe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://r10f.com/portfolio/antriebe/</guid>
+      <description>Simulation of route profiles, analysis of technological solutions and recommendations to German Ministry of Railways on future grants to support introduction.
+Report (in German)</description>
+    </item>
+    
+    <item>
+      <title>Modelling of sanding in wheel/rail contact</title>
+      <link>https://r10f.com/portfolio/sanding/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://r10f.com/portfolio/sanding/</guid>
+      <description>The behaviour of sand for friction enhancement in the wheel/rail interface was modelled analytically. It can be shown that the adhesion surface increases.
+Paper presented at ICRT conference</description>
+    </item>
+    
+    <item>
+      <title>Rare Event Simulation</title>
+      <link>https://r10f.com/portfolio/rareevent/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://r10f.com/portfolio/rareevent/</guid>
+      <description>Rare Event simulation makes it possible to quantify the probability of extreme rarely observed events, such as catastrophic failures in brake systems. The advantage is the reduced number of required simulations.</description>
+    </item>
+    
+    <item>
+      <title>Big Data Analysis</title>
+      <link>https://r10f.com/portfolio/bigdata/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://r10f.com/portfolio/bigdata/</guid>
+      <description>Big data analysis can be fruitful when looking for the most effective way to address maintenance challenge.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://r10f.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://r10f.com/publications/</guid>
+      <description>Many articles with linked fulltexts are available on research gate: Link to research gate
+Journal articles Pfaff, Raphael, Manfred Enning und Stefan Sutter: A risk-based approach to automatic brake tests for rail freight service. Springer Nature Applied Sciences 4:115, 2022
+Münchow, Sam, Lisa Menkel, Raphael Pfaff und Rene Fratscher: SAMIRA - die smarte Rückfahrkamera für Rangierabteilungen. Deine Bahn, 11:28 – 32, 2021
+Pfaff, Raphael: Die automatische Bremsprobe muss her! ETR - Eisenbahntechnische Rundschau, (12):3, 2020</description>
+    </item>
+    
+  </channel>
+</rss>
